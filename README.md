@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DimIchFasT
+- 👀 I’m interested in Coding and also DevOps direction 
+- 🌱 I’m currently learning Java, Python
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me: 
+- Telegram: t.me/DimIchFasT
